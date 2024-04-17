@@ -5,7 +5,7 @@ Author: Joymalya Basu Roy
 DESCRIPTION
 The script is created based on the Microsoft 365 IP Address and URL web service (https://aka.ms/ipurlws). 
 A REST API call is made to the Worldwide instance to obtain the latest endpoint URLs 
-for Service Area "MEM" and then check connectivity to those endpoint URLs from the client.
+for Service Area "MEM" and related "M365 Common" and then check connectivity to those endpoint URLs from the client.
 
 PARAMETERS
 n/a
